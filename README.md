@@ -8,7 +8,7 @@
 [![bundle size](https://img.shields.io/bundlephobia/minzip/local-migrate)](https://bundlephobia.com/package/local-migrate)
 [![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](./package.json)
 [![license](https://img.shields.io/npm/l/local-migrate.svg)](./LICENSE)
-[![tests](https://img.shields.io/github/actions/workflow/status/YOUR_USER/local-migrate/test.yml?label=tests)](https://github.com/YOUR_USER/local-migrate/actions)
+[![tests](https://img.shields.io/github/actions/workflow/status/drip04/local-migrate/test.yml?label=tests)](https://github.com/drip04/local-migrate/actions)
 
 *Ship new app versions without bricking the browsers that still hold your old data.*
 
