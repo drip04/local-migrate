@@ -4,10 +4,10 @@
 
 **Database-style schema migrations for `localStorage` and `sessionStorage`. Under 100 lines. Zero dependencies.**
 
-[![npm version](https://img.shields.io/npm/v/local-migrate.svg)](https://www.npmjs.com/package/local-migrate)
-[![bundle size](https://img.shields.io/bundlephobia/minzip/local-migrate)](https://bundlephobia.com/package/local-migrate)
+[![npm version](https://img.shields.io/npm/v/local-migrate?style=flat)](https://www.npmjs.com/package/local-migrate)
+[![size](https://img.shields.io/npm/unpacked-size/local-migrate?style=flat)](https://www.npmjs.com/package/local-migrate)
 [![dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](./package.json)
-[![license](https://img.shields.io/npm/l/local-migrate.svg)](./LICENSE)
+[![license](https://img.shields.io/npm/l/local-migrate?style=flat)](./LICENSE)
 [![tests](https://img.shields.io/github/actions/workflow/status/drip04/local-migrate/test.yml?label=tests)](https://github.com/drip04/local-migrate/actions)
 
 *Ship new app versions without bricking the browsers that still hold your old data.*
