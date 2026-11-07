@@ -2,6 +2,9 @@
   "name": "local-migrate",
   "version": "1.0.0",
   "description": "Zero-dependency schema versioning and sequential migrations for localStorage and sessionStorage.",
+    "repository": { "type": "git", "url": "git+https://github.com/drip04/local-migrate.git" },
+  "homepage": "https://github.com/drip04/local-migrate#readme",
+  "bugs": { "url": "https://github.com/drip04/local-migrate/issues" },
   "type": "module",
   "main": "./src/index.js",
   "exports": {
