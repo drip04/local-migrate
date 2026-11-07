@@ -1,0 +1,20 @@
+{
+  "name": "local-migrate",
+  "version": "1.0.0",
+  "description": "Zero-dependency schema versioning and sequential migrations for localStorage and sessionStorage.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js"
+  },
+  "files": ["src"],
+  "sideEffects": false,
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["localStorage", "sessionStorage", "migration", "schema", "versioning", "storage"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  }
+}
